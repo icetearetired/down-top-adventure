@@ -295,3 +295,1691 @@ Received Import Request.
 Start importing Assets/Art/Titlesets/TilesetNature.png using Guid(3d9bf0e1c82a07e4e9c2c3aef67f931d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9008ef8147ec23a2fb5fc8233a93766b') in 3.7615708 seconds
 Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 385
 
+========================================================================
+Received Import Request.
+  Time since last request: 225.529888 seconds.
+  path: Assets/Art/Titlesets/Nature/Nature.prefab
+  artifactKey: Guid(924ed498a98508d48b458d84eb5e31ed) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/Nature.prefab using Guid(924ed498a98508d48b458d84eb5e31ed) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '8e9f049d6b0da79c7ff4e83cb38bed3e') in 3.9211522 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 20.596245 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_112.asset
+  artifactKey: Guid(735c8f16950af7f4c874f7b860a64186) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_112.asset using Guid(735c8f16950af7f4c874f7b860a64186) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'edc220ec3e706b683ddb1fa69640d12a') in 0.3798074 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000094 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_262.asset
+  artifactKey: Guid(c2caa8fbe1397ae4e8c442986d73bd21) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_262.asset using Guid(c2caa8fbe1397ae4e8c442986d73bd21) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '100e1cf11891427e5f3cca5ed1041e9b') in 0.0835138 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000123 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_24.asset
+  artifactKey: Guid(7a6114691f61e3442ba7344ef9d483e7) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_24.asset using Guid(7a6114691f61e3442ba7344ef9d483e7) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '0115087515c2c3984e984cb2ded18e47') in 0.0853836 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000082 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_219.asset
+  artifactKey: Guid(e1ad93c98ba3d904fa374a171edd597a) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_219.asset using Guid(e1ad93c98ba3d904fa374a171edd597a) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '68c3143b869318cedfe7c26da5929e6f') in 0.0850922 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_323.asset
+  artifactKey: Guid(760d23b1885bc8a498ecc959ca3ab4d0) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_323.asset using Guid(760d23b1885bc8a498ecc959ca3ab4d0) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '95aed84e612468a120e85fe612e622c5') in 0.0655615 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000064 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_342.asset
+  artifactKey: Guid(9c2f7f5a3b96012488c3fc9fc0aa55fe) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_342.asset using Guid(9c2f7f5a3b96012488c3fc9fc0aa55fe) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'c07aba6dbf41d2997f03590665188d18') in 0.0740022 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000120 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_63.asset
+  artifactKey: Guid(cd205290cd45e5c48b3a7be5bb44d73f) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_63.asset using Guid(cd205290cd45e5c48b3a7be5bb44d73f) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'bd79342135f5cfd03657971869ac3d17') in 0.0868171 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000069 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_294.asset
+  artifactKey: Guid(829db64a6e0575441be4594f8b847fcf) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_294.asset using Guid(829db64a6e0575441be4594f8b847fcf) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '5d1d04350457f290b2a0b56e9940cdd5') in 0.0765151 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000070 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_42.asset
+  artifactKey: Guid(f64a7c6b95a35ab4ab61ef17b69013b8) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_42.asset using Guid(f64a7c6b95a35ab4ab61ef17b69013b8) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'a3fadce2b03704e24f936accb2ddfe84') in 0.0830255 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000084 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_170.asset
+  artifactKey: Guid(a2e8a81a8ba563749b2b3160ad8a3895) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_170.asset using Guid(a2e8a81a8ba563749b2b3160ad8a3895) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '94bf0f0502ae4a9ccbf3fbb83ce237c4') in 0.0963409 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000189 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_328.asset
+  artifactKey: Guid(6742e101fe9fd944ba812160e93b6596) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_328.asset using Guid(6742e101fe9fd944ba812160e93b6596) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'a804a379872cbba5ac877a4308d5198e') in 0.0854175 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000063 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_26.asset
+  artifactKey: Guid(25aca053c58e78b4c8c95da85cb6ee79) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_26.asset using Guid(25aca053c58e78b4c8c95da85cb6ee79) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '449b2cb77264b0ac3ede767335f74c9a') in 0.0770434 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000227 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_6.asset
+  artifactKey: Guid(9459fc95f7ffbba44a340d3206d304ae) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_6.asset using Guid(9459fc95f7ffbba44a340d3206d304ae) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'ebb0963ec8524b272f3374d80af7f71b') in 0.0671366 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_256.asset
+  artifactKey: Guid(1f51167a79efc524196a1e0a7be0ae16) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_256.asset using Guid(1f51167a79efc524196a1e0a7be0ae16) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'fe3c4709d5a4c515ade0644156f28491') in 0.0888047 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000070 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_310.asset
+  artifactKey: Guid(2ca62994e7ecc34479aa71b67c12dc23) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_310.asset using Guid(2ca62994e7ecc34479aa71b67c12dc23) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'bb4a57dcf2a46add51b8bfd0a0ab6ca2') in 0.0665082 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000209 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_171.asset
+  artifactKey: Guid(f05f1cee80a90a343a639ecc7ec6535e) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_171.asset using Guid(f05f1cee80a90a343a639ecc7ec6535e) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'cec9fea89423016f93453f009cc984e9') in 0.0630776 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000240 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_266.asset
+  artifactKey: Guid(200fa3a499219d24dae94c5dc6aa5dd8) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_266.asset using Guid(200fa3a499219d24dae94c5dc6aa5dd8) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '04952c504537165be818e4848eee5e2f') in 0.0741022 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000075 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_139.asset
+  artifactKey: Guid(6c03e2f4430829b408b0c04046737f9e) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_139.asset using Guid(6c03e2f4430829b408b0c04046737f9e) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'c31426b517133181e4695f9d4b8f9b97') in 0.0776889 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000176 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_317.asset
+  artifactKey: Guid(b4fd77a8705d8254281224123014728d) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_317.asset using Guid(b4fd77a8705d8254281224123014728d) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '70702ea14ce116d2cc35bd542c993754') in 0.0594133 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000073 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_225.asset
+  artifactKey: Guid(d5c7dfdb5ea3db74f81e6091c36be2f1) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_225.asset using Guid(d5c7dfdb5ea3db74f81e6091c36be2f1) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'ac51cf8ebf3f1c6b60eea7885eb5b786') in 0.0627972 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000198 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_376.asset
+  artifactKey: Guid(3b0077d378db84347b28176556ed1df5) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_376.asset using Guid(3b0077d378db84347b28176556ed1df5) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '682854a685a464416a2da0a1c4eccb1e') in 0.0650073 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000076 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_234.asset
+  artifactKey: Guid(9d80bed2c734b934cb21b12baa8ced3e) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_234.asset using Guid(9d80bed2c734b934cb21b12baa8ced3e) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '7d546d398f9ac068d8997c3daa168f3b') in 0.0716206 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000251 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_189.asset
+  artifactKey: Guid(c703fc3ba8380df46a5a4e6eb8535b22) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_189.asset using Guid(c703fc3ba8380df46a5a4e6eb8535b22) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '6fcf04380a778759b6ee0b2f7a41fb3f') in 0.0653551 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000079 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_365.asset
+  artifactKey: Guid(4668acc0849ea184f96f611d4ed2c815) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_365.asset using Guid(4668acc0849ea184f96f611d4ed2c815) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'd30eef268ecd9562978b1e69c1f30f2b') in 0.0740027 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000121 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_120.asset
+  artifactKey: Guid(cc9e41dc3d7fe204996087e58b13d6fa) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_120.asset using Guid(cc9e41dc3d7fe204996087e58b13d6fa) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '81ac6572db759123aab6e972f316d526') in 0.0842786 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000086 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_209.asset
+  artifactKey: Guid(365091d442c39234b8c7ca941c2617fc) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_209.asset using Guid(365091d442c39234b8c7ca941c2617fc) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'b4f4f28ca64df916c733a589d020ea03') in 0.0909872 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000812 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_282.asset
+  artifactKey: Guid(8a70c04aa5c091c429919f3f41e8058a) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_282.asset using Guid(8a70c04aa5c091c429919f3f41e8058a) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '4fc61cee9e13edbc8a923e8fd19400c5') in 0.0746328 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000185 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_43.asset
+  artifactKey: Guid(8450c4e0192e5e24abb6b426a9e9259a) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_43.asset using Guid(8450c4e0192e5e24abb6b426a9e9259a) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '82f6e7c3cbf66d7e80e86aef5576a2e5') in 0.0690356 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000073 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_307.asset
+  artifactKey: Guid(0973ea9601241194a888c292ba6a5db8) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_307.asset using Guid(0973ea9601241194a888c292ba6a5db8) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '60092171068b7c22bf72af8ba9624a3a') in 0.0737035 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000331 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_273.asset
+  artifactKey: Guid(ad53ac26b3746ec4cbf4e82eb92b11fe) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_273.asset using Guid(ad53ac26b3746ec4cbf4e82eb92b11fe) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'c4cdfc89104efe34e8a9d6ab7b75eef7') in 0.0683203 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000130 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_128.asset
+  artifactKey: Guid(1f55b5f0758fcd042be603efff0fb182) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_128.asset using Guid(1f55b5f0758fcd042be603efff0fb182) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '92590ab8e06fff318cfafd6fa0fac61f') in 0.0733437 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_83.asset
+  artifactKey: Guid(83a6eb2e40c3ad54f890fc12674274fe) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_83.asset using Guid(83a6eb2e40c3ad54f890fc12674274fe) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '3c469ed8777eef9d2b211479c5c3a266') in 0.0808648 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000094 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_174.asset
+  artifactKey: Guid(afd5b4ba72303dc408a6dd647750108d) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_174.asset using Guid(afd5b4ba72303dc408a6dd647750108d) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '6b46eb527aa8da1a64c7ee6e1e9d1bd7') in 0.080764 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000077 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_142.asset
+  artifactKey: Guid(dfdab174d36d73e4da2f2dd93ab4e8a6) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_142.asset using Guid(dfdab174d36d73e4da2f2dd93ab4e8a6) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '93ef70e8309faaa2ddadd7065063c54c') in 0.0687923 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000113 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_16.asset
+  artifactKey: Guid(ba9d936081a1d24418c15ae81d7b340a) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_16.asset using Guid(ba9d936081a1d24418c15ae81d7b340a) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '2e4d941540e33075ea4749c080cf39c7') in 0.081986 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000153 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_304.asset
+  artifactKey: Guid(11705425712f155448f079387d6e9258) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_304.asset using Guid(11705425712f155448f079387d6e9258) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '805f5a7408fc17e0b9fd4610720e18a6') in 0.0845796 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000048 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_272.asset
+  artifactKey: Guid(83d6710f173ead842bc5ee786a22b316) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_272.asset using Guid(83d6710f173ead842bc5ee786a22b316) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '9ed768e2b8b8ec9c7470605d902cff16') in 0.0703016 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000437 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_95.asset
+  artifactKey: Guid(ec95d8d4c4c6b9643903b1b54f905a4f) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_95.asset using Guid(ec95d8d4c4c6b9643903b1b54f905a4f) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '7de66fbf62978515a0315501afdb3633') in 0.0750422 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000067 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_335.asset
+  artifactKey: Guid(93409a0f1707f9f498cc4e98ccd68777) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_335.asset using Guid(93409a0f1707f9f498cc4e98ccd68777) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '7075f49c4830f71b2de0100edaf54c82') in 0.0722898 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000096 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_348.asset
+  artifactKey: Guid(c38ec682b97cc114d9d07786835e8611) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_348.asset using Guid(c38ec682b97cc114d9d07786835e8611) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '51403e74f48ff27d1f3d1bdd4c606846') in 0.0863094 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000086 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_54.asset
+  artifactKey: Guid(2a36ffeae6b4ec843b7645e60df4058f) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_54.asset using Guid(2a36ffeae6b4ec843b7645e60df4058f) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '0cc26a9a128a2c96ea5f93cd7c644194') in 0.0754075 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_306.asset
+  artifactKey: Guid(dc6fe790d7da18342915bd79549524c3) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_306.asset using Guid(dc6fe790d7da18342915bd79549524c3) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'f3e8b899e6903e7aad21bf77d9a845da') in 0.0695189 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000068 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_183.asset
+  artifactKey: Guid(73c5e2139927ee94393cf867fb2b57e7) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_183.asset using Guid(73c5e2139927ee94393cf867fb2b57e7) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '94dd8520cfb722c34c01212e06995e02') in 0.0645624 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000087 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_311.asset
+  artifactKey: Guid(10949919a79f1cb4eb53f0ff89eef15c) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_311.asset using Guid(10949919a79f1cb4eb53f0ff89eef15c) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '941db4b17784d6f1f9f48bda94a90be8') in 0.0668624 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000069 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_10.asset
+  artifactKey: Guid(a82be65dac682c640a2dd4df4ab8ed73) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_10.asset using Guid(a82be65dac682c640a2dd4df4ab8ed73) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'f4a76174c9b60000cc1707d6ed39032d') in 0.068726 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000070 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_172.asset
+  artifactKey: Guid(eeb84f4826124f64d8dc44f327b37f68) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_172.asset using Guid(eeb84f4826124f64d8dc44f327b37f68) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '3d1e92d3a44120179d051e9e5964fdc9') in 0.0738509 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000080 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_29.asset
+  artifactKey: Guid(640e71b2450c11b4797c7c4d6a7a5591) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_29.asset using Guid(640e71b2450c11b4797c7c4d6a7a5591) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '26a3041ae28588ee8c85d26ac0a778d6') in 0.0862677 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000127 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_374.asset
+  artifactKey: Guid(98facf2c615eac14589751f93d9d5345) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_374.asset using Guid(98facf2c615eac14589751f93d9d5345) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '6f23ddf61a274e6180a1879554287ccd') in 0.0661345 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000175 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_241.asset
+  artifactKey: Guid(768e216c6109d034d985b1c130f2f080) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_241.asset using Guid(768e216c6109d034d985b1c130f2f080) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '945ed25c78927ae3dfd3dde6a4f540ef') in 0.0645331 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000081 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_377.asset
+  artifactKey: Guid(b2d5681868b991a4ca40ae0e9f730af3) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_377.asset using Guid(b2d5681868b991a4ca40ae0e9f730af3) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'cccd2692d9ba2256d34ab09dae408cfc') in 0.0713808 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000110 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_226.asset
+  artifactKey: Guid(c472cd2063f2f294bb033945acc1fd85) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_226.asset using Guid(c472cd2063f2f294bb033945acc1fd85) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '558e3873feb6967afd10b6b420d67f48') in 0.0716918 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000117 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_94.asset
+  artifactKey: Guid(27f2bc8f7e757e7459f851309b28c146) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_94.asset using Guid(27f2bc8f7e757e7459f851309b28c146) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '4623fcd20913fad3d6ea4314139c7bc1') in 0.0772466 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_14.asset
+  artifactKey: Guid(afd87f790e9bf41418ee9822f52bf750) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_14.asset using Guid(afd87f790e9bf41418ee9822f52bf750) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '768bcb0423c5fb50af281b212d7b3b79') in 0.0946003 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000046 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_207.asset
+  artifactKey: Guid(a2aac2b8a81386b4fb88358f219e6c4e) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_207.asset using Guid(a2aac2b8a81386b4fb88358f219e6c4e) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'c071bac426fd5250864d4cce336da380') in 0.118487 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001316 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_7.asset
+  artifactKey: Guid(aa8cdaf6478225d438ba393759dbd3ee) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_7.asset using Guid(aa8cdaf6478225d438ba393759dbd3ee) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'c8c277f6edf25791047bd263ca9b9b00') in 0.0843675 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000358 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_138.asset
+  artifactKey: Guid(c242c631fce610a499283e10e9598bc6) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_138.asset using Guid(c242c631fce610a499283e10e9598bc6) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '7f3d1a86ec7eb995a0d9bbefc06fc797') in 0.0689113 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000223 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_301.asset
+  artifactKey: Guid(8405acf5254031940b38ad0f570ea6a0) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_301.asset using Guid(8405acf5254031940b38ad0f570ea6a0) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'efb9c1d836ccea52256ee32d0bd4a55a') in 0.0664531 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000081 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_250.asset
+  artifactKey: Guid(a73e65be9a8df294683eb193d3530d7f) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_250.asset using Guid(a73e65be9a8df294683eb193d3530d7f) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'b58a5cf27113394e4cdb914f705972bd') in 0.0623522 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000078 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_370.asset
+  artifactKey: Guid(95b4d6733e2b4f34d95dae57aa8fedd8) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_370.asset using Guid(95b4d6733e2b4f34d95dae57aa8fedd8) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '4ce6e14aa48a257edd1d079754332856') in 0.0735268 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000133 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_124.asset
+  artifactKey: Guid(108c50cd87b02434981f92e3cbfaf77f) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_124.asset using Guid(108c50cd87b02434981f92e3cbfaf77f) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '0068746fe9bfb6ed782567e3df72c18c') in 0.0726188 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000069 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_110.asset
+  artifactKey: Guid(40a2e2f6e3ddd2849a9762b50bbfd32c) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_110.asset using Guid(40a2e2f6e3ddd2849a9762b50bbfd32c) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '30f1ce2ccd2131602b8ad81c56335fc1') in 0.102407 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000083 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_345.asset
+  artifactKey: Guid(1c82b1ab4c43e0d4796901f664eb329a) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_345.asset using Guid(1c82b1ab4c43e0d4796901f664eb329a) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '27c0cfe18c651ce2bc013c22e175ce30') in 0.0683257 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000134 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_300.asset
+  artifactKey: Guid(1ac95b405cb405743b94057a761037ee) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_300.asset using Guid(1ac95b405cb405743b94057a761037ee) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'd63d339863fcccce2536d414c454797b') in 0.068415 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000078 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_360.asset
+  artifactKey: Guid(3e8781f5882acc6459a829285f86032e) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_360.asset using Guid(3e8781f5882acc6459a829285f86032e) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'ad89566d2f40258e7c6b54c5d033af25') in 0.0650664 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000207 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_211.asset
+  artifactKey: Guid(21eb16ec84138e4478e3048442b0a36c) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_211.asset using Guid(21eb16ec84138e4478e3048442b0a36c) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '3449536251ba6c232ae7d6fa2f479cf3') in 0.0651309 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000103 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_148.asset
+  artifactKey: Guid(401c78f781119b549a15fc168e95ad73) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_148.asset using Guid(401c78f781119b549a15fc168e95ad73) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '742979829fca1ff35e5d2e175584c419') in 0.0686647 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000165 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_324.asset
+  artifactKey: Guid(4583e3a93f11aa743a6d9ce8c005f8dd) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_324.asset using Guid(4583e3a93f11aa743a6d9ce8c005f8dd) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '088a69f833bd1c4a1eb4e1a8ee52fe01') in 0.0715472 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000070 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_223.asset
+  artifactKey: Guid(44f1ae1a9e0e2d749a25215336edf481) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_223.asset using Guid(44f1ae1a9e0e2d749a25215336edf481) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '6e677a410e564f9186c7a26796edc262') in 0.07646 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000075 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_267.asset
+  artifactKey: Guid(1731253b7d4d98c4fa751795c386ca41) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_267.asset using Guid(1731253b7d4d98c4fa751795c386ca41) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'f0c35a7a179139c82985dcabf8e02ad7') in 0.0681584 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000205 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_162.asset
+  artifactKey: Guid(a4bcdde9086fb7e4a89f75b050c9745a) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_162.asset using Guid(a4bcdde9086fb7e4a89f75b050c9745a) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'd267ece74904b0ffd286ee151b88ad3a') in 0.0617158 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000075 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_276.asset
+  artifactKey: Guid(98211483b7b029047be2c227d3a9aa74) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_276.asset using Guid(98211483b7b029047be2c227d3a9aa74) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '135ef1d5264e8cb558fefdea7a1e4545') in 0.0708598 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000061 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_305.asset
+  artifactKey: Guid(59ac67deb8301db41882207017e3bf31) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_305.asset using Guid(59ac67deb8301db41882207017e3bf31) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '813d8426a85bd868b4698f33a47c26bc') in 0.0727123 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000067 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_8.asset
+  artifactKey: Guid(df68d1efd8ced0c429bd056d553f6faa) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_8.asset using Guid(df68d1efd8ced0c429bd056d553f6faa) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '129d6363fcd7e1424c6ec362e70481fb') in 0.074274 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000391 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_195.asset
+  artifactKey: Guid(7b71780932ff6ec43a8b46889aea9f23) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_195.asset using Guid(7b71780932ff6ec43a8b46889aea9f23) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'e0329a5f100fdf3f5cb6c847fa3095ab') in 0.0753588 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000102 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_28.asset
+  artifactKey: Guid(401524148998ee642a117ff9eeec7620) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_28.asset using Guid(401524148998ee642a117ff9eeec7620) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '9e6842a5c1674bb050e065c0b8cdd0b8') in 0.0774927 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000100 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_33.asset
+  artifactKey: Guid(1a46af464957f6e4494b1063e8865470) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_33.asset using Guid(1a46af464957f6e4494b1063e8865470) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '1f5b73014afdf0ddd75b53d97ea4c6d0') in 0.064029 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000281 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_11.asset
+  artifactKey: Guid(8cc8270e291e6db40b14dfaf8ed59dd7) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_11.asset using Guid(8cc8270e291e6db40b14dfaf8ed59dd7) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '6d43068ed539fe999c4f8fcb593858f1') in 0.0693178 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000744 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_316.asset
+  artifactKey: Guid(459e9b449673a214b8c24ebb50708539) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_316.asset using Guid(459e9b449673a214b8c24ebb50708539) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'fdc6b8a20f373b85b38b241ca319d34f') in 0.0734596 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000191 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_78.asset
+  artifactKey: Guid(c406260dab56eb64ebbebcabbb0019d5) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_78.asset using Guid(c406260dab56eb64ebbebcabbb0019d5) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '7ee2ce822cba723267e27f8b72db7893') in 0.2170022 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000144 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_82.asset
+  artifactKey: Guid(1d9b2366fd5646e428687c63d4d06db8) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_82.asset using Guid(1d9b2366fd5646e428687c63d4d06db8) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '01251bdcbfa2c369d2f795baec24fdf5') in 0.0712769 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000060 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_196.asset
+  artifactKey: Guid(8f7e97eeacaca0d45bdb1f3ed57541c6) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_196.asset using Guid(8f7e97eeacaca0d45bdb1f3ed57541c6) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '3bffc532d3ec984450227c57165efaf6') in 0.0640785 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_91.asset
+  artifactKey: Guid(24b6e543349324446ad6be440495363e) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_91.asset using Guid(24b6e543349324446ad6be440495363e) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '17be4c9d8cb0f8cca309c970023bec7d') in 0.0713386 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000099 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_235.asset
+  artifactKey: Guid(d99ca161e2ad72b4b8c483cd9faf4a4b) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_235.asset using Guid(d99ca161e2ad72b4b8c483cd9faf4a4b) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '9ae52b2ea2250f964597694c4d842a4c') in 0.0654354 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000312 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_244.asset
+  artifactKey: Guid(d53cb07d974fb5f4e9f5e1ad3a768525) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_244.asset using Guid(d53cb07d974fb5f4e9f5e1ad3a768525) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '760c4c298bf8acddfdc562f27e709581') in 0.0702127 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000056 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_136.asset
+  artifactKey: Guid(12120283207bb5040b699e9bbe62fb77) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_136.asset using Guid(12120283207bb5040b699e9bbe62fb77) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '1881ef54e580480d58fc882a98ecfc89') in 0.0702751 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000168 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_320.asset
+  artifactKey: Guid(7136a60c8c20bfa44be1a2a296d6e847) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_320.asset using Guid(7136a60c8c20bfa44be1a2a296d6e847) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'd8cf2f2953d2d2f2e413863d4118e49c') in 0.0695105 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000248 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_233.asset
+  artifactKey: Guid(33991d2c2f2b7784ea7e2a8aab703a4a) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_233.asset using Guid(33991d2c2f2b7784ea7e2a8aab703a4a) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '59e93e6a3474a00ed12bbdf83c5af024') in 0.0671453 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000089 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_369.asset
+  artifactKey: Guid(ce2ec398c18ebcb4fbf2d0711c4fef36) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_369.asset using Guid(ce2ec398c18ebcb4fbf2d0711c4fef36) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '714503256e0cf756429598d1fa223fcd') in 0.0615271 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000064 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_132.asset
+  artifactKey: Guid(b31c6cd6101cdf34ab4990690f255edb) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_132.asset using Guid(b31c6cd6101cdf34ab4990690f255edb) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '66b474bafb94792da0f07bd5617d07a9') in 0.0648549 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000061 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_246.asset
+  artifactKey: Guid(8c0f10364eb170c4fb2b67d1bce52d7c) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_246.asset using Guid(8c0f10364eb170c4fb2b67d1bce52d7c) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'badbac0ddc4b9b8314216446e051f807') in 0.0619409 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000208 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_204.asset
+  artifactKey: Guid(fdad72cec6e249d4abefdd73fdc8ee1c) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_204.asset using Guid(fdad72cec6e249d4abefdd73fdc8ee1c) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'b06c16765394dc01605388fddc563c7e') in 0.0664053 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000299 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_69.asset
+  artifactKey: Guid(d6eabbf61679e624685a2ab519b43334) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_69.asset using Guid(d6eabbf61679e624685a2ab519b43334) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '6c198c241db335e11a28558c5c3d4cc3') in 0.0646124 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000060 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_179.asset
+  artifactKey: Guid(adf2fb0adea64ad4fbbdb2dd0f5accee) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_179.asset using Guid(adf2fb0adea64ad4fbbdb2dd0f5accee) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '20d6d0c3c40b9586fda03e24be82b0eb') in 0.0853916 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000086 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_329.asset
+  artifactKey: Guid(e0c4eca487b7f8645bef9ce8622ef607) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_329.asset using Guid(e0c4eca487b7f8645bef9ce8622ef607) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '36b233ef53061432234c95442701a997') in 0.0704666 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000064 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_15.asset
+  artifactKey: Guid(1055b89704ba5b04cbdf47fe4d47b0c2) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_15.asset using Guid(1055b89704ba5b04cbdf47fe4d47b0c2) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'd2075068e70a2367e6283243f543f339') in 0.0648221 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000094 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_73.asset
+  artifactKey: Guid(e7759340a15935249947b404937cc627) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_73.asset using Guid(e7759340a15935249947b404937cc627) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '4ef93217f5d1f0a24a2fbf9cb8d19f04') in 0.071012 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000152 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_243.asset
+  artifactKey: Guid(7ff23b00b2c5fd445a1aa83585e6df3c) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_243.asset using Guid(7ff23b00b2c5fd445a1aa83585e6df3c) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'f277e63d7b4c6f7def56dc6c6a650535') in 0.0637493 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000122 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_269.asset
+  artifactKey: Guid(64681255c26d9a143abda468fdaea93a) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_269.asset using Guid(64681255c26d9a143abda468fdaea93a) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '17936a63bc73c1d9664e6d8d5abe6168') in 0.0719089 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000095 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_358.asset
+  artifactKey: Guid(7c0d0ef39dacd0c4491928027575eaad) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_358.asset using Guid(7c0d0ef39dacd0c4491928027575eaad) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'a436ca89bc3e63ee29af4238e99e4a0d') in 0.0678726 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000105 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_236.asset
+  artifactKey: Guid(35baa38b99822fc44bf5c44854046c09) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_236.asset using Guid(35baa38b99822fc44bf5c44854046c09) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '1924bc268a672cf2bd7c7baeef82a500') in 0.0729474 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000060 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_194.asset
+  artifactKey: Guid(8c5c9c3b2acb47e4a9aa800ab7a56972) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_194.asset using Guid(8c5c9c3b2acb47e4a9aa800ab7a56972) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '77563427b70a5c954ea5d3a718ae26e9') in 0.0638822 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000120 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_97.asset
+  artifactKey: Guid(bd82cf1a5da69454487d5189171ba7fa) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_97.asset using Guid(bd82cf1a5da69454487d5189171ba7fa) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'c82d24f0c406d1ac3b0013a1153e1c1d') in 0.0592148 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000073 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_190.asset
+  artifactKey: Guid(c60243e623ecf65498e104c0e585622a) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_190.asset using Guid(c60243e623ecf65498e104c0e585622a) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'f37381d6589d7a2e327df84268c4b9d1') in 0.0601052 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000068 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_237.asset
+  artifactKey: Guid(865a6f934cb63234798d8492ec970c49) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_237.asset using Guid(865a6f934cb63234798d8492ec970c49) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'c9147912194b46f51d2dfa7d8af5026a') in 0.0620427 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000082 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_239.asset
+  artifactKey: Guid(b70397e4c78c2124da8874d51740f4b5) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_239.asset using Guid(b70397e4c78c2124da8874d51740f4b5) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '0288d5f351afc9d27228df8cb4484d62') in 0.0661685 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000084 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_213.asset
+  artifactKey: Guid(c7ced7e4e7d5ba24f85f310b421256a3) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_213.asset using Guid(c7ced7e4e7d5ba24f85f310b421256a3) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '37be332289f8979ea054c215a68a5478') in 0.0699262 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000100 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_325.asset
+  artifactKey: Guid(da58a315d9edf4744aff312070729a24) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_325.asset using Guid(da58a315d9edf4744aff312070729a24) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '84deb9502126ec2f46dfcccaabbc692a') in 0.093269 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000162 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_22.asset
+  artifactKey: Guid(c920dc4fa1f1f6a4193aa08476ade7c1) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_22.asset using Guid(c920dc4fa1f1f6a4193aa08476ade7c1) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '75a209b65ffcb67d4192c80c1d54f286') in 0.0700088 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000233 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_55.asset
+  artifactKey: Guid(55d65f0f11945274e8fb77f3d79e5d06) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_55.asset using Guid(55d65f0f11945274e8fb77f3d79e5d06) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'b01ab839677dcd2daff7bf927b34664b') in 0.0732878 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000318 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_185.asset
+  artifactKey: Guid(b98c4da894d44a24aaf1d1cf451e0ae8) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_185.asset using Guid(b98c4da894d44a24aaf1d1cf451e0ae8) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '4b1ece7a8e611d1d903c6ce20ad68c85') in 0.0629105 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000239 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_13.asset
+  artifactKey: Guid(a43e95a32b4e55b42973f8167637b82b) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_13.asset using Guid(a43e95a32b4e55b42973f8167637b82b) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '954d5ba13d4a0cbabe016c1c67fcf7ba') in 0.0703169 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_350.asset
+  artifactKey: Guid(1c1a882f04f6ea1448fb81518d0b7d11) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_350.asset using Guid(1c1a882f04f6ea1448fb81518d0b7d11) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '1cdee122b4a5cdfe9a7b1383379c4eae') in 0.0926795 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000347 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_36.asset
+  artifactKey: Guid(df6a2ef07c279fe48aec732d0287fbe2) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_36.asset using Guid(df6a2ef07c279fe48aec732d0287fbe2) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'c0626edba2d73161898f5a8b05a798eb') in 0.0786778 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000089 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_100.asset
+  artifactKey: Guid(3278f0aeda193d947aaa60261373fba7) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_100.asset using Guid(3278f0aeda193d947aaa60261373fba7) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '1c1ea074b8566039f545cc3eeca814f5') in 0.0677677 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000103 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_157.asset
+  artifactKey: Guid(15341675caa51734bb008cb05a07af13) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_157.asset using Guid(15341675caa51734bb008cb05a07af13) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'f179f8fcc58465dfacd93342eb499b28') in 0.0707938 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000067 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_125.asset
+  artifactKey: Guid(8557ee795b38287459a249d97ac05340) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_125.asset using Guid(8557ee795b38287459a249d97ac05340) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'da9d2a3bab2ca365bc90dd907c04ab71') in 0.0623735 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000099 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_23.asset
+  artifactKey: Guid(4448e923d18fa224ba47abee01446c84) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_23.asset using Guid(4448e923d18fa224ba47abee01446c84) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '4f306d2ffbc845882aa75df575aef858') in 0.0641738 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000277 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_161.asset
+  artifactKey: Guid(97c54fd10c84b3342a2ae067a0056cd8) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_161.asset using Guid(97c54fd10c84b3342a2ae067a0056cd8) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '8e2140d3e302bb939314912f6f81d3d1') in 0.0752294 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000069 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_117.asset
+  artifactKey: Guid(f13d2e30dec6af14cb98129afe96fed4) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_117.asset using Guid(f13d2e30dec6af14cb98129afe96fed4) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '6a1aeac9402157fcbe893e8e7290b76a') in 0.1463819 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_2.asset
+  artifactKey: Guid(cfb7cc3f022b85f45b7a99f21dfa09dd) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_2.asset using Guid(cfb7cc3f022b85f45b7a99f21dfa09dd) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'a695bb1feaa16999cd459ff5292cc7be') in 0.0970129 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000133 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_287.asset
+  artifactKey: Guid(6eaded70d239a654d9362439fddd1380) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_287.asset using Guid(6eaded70d239a654d9362439fddd1380) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'dd9a31d22cc67629166108da919492b9') in 0.0828166 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000077 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_221.asset
+  artifactKey: Guid(7b1b470f99a8f8e4b90d11ef260f0b2a) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_221.asset using Guid(7b1b470f99a8f8e4b90d11ef260f0b2a) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '93e14cfbe53b52f6f875336d73f76c0b') in 0.0629812 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001055 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_199.asset
+  artifactKey: Guid(8cacfd737edd99b4f9d9afcd6c0ad054) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_199.asset using Guid(8cacfd737edd99b4f9d9afcd6c0ad054) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'e6351290cbdc0e425289e854b1569d6b') in 0.1053027 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000081 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_34.asset
+  artifactKey: Guid(d3770faa8344e7a45bf008fbe9988828) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_34.asset using Guid(d3770faa8344e7a45bf008fbe9988828) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '305c3cf70cd15c3100447224c067c6c0') in 0.062973 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000072 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_72.asset
+  artifactKey: Guid(5bb486a1243191641bc8888bd5757c04) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_72.asset using Guid(5bb486a1243191641bc8888bd5757c04) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '2bfccfbe47e474ce2cde5fe2a268a15c') in 0.0933355 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000133 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_292.asset
+  artifactKey: Guid(316aeb5b2e910f14da8955a807311d91) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_292.asset using Guid(316aeb5b2e910f14da8955a807311d91) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '977bc9e7ce980579eb823d49ab757985') in 0.0932565 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000108 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_143.asset
+  artifactKey: Guid(c6950982fb81d874b92f16ca7a5b1c85) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_143.asset using Guid(c6950982fb81d874b92f16ca7a5b1c85) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'ff43b5ccbe2283a56b6e42ae9ec7e956') in 0.0942827 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000073 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_156.asset
+  artifactKey: Guid(3f4158367038d53428ade946171c4faa) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_156.asset using Guid(3f4158367038d53428ade946171c4faa) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'a40dfa62606382d66edf260cfd90b20c') in 0.0700064 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000120 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_248.asset
+  artifactKey: Guid(30124b57dd80a31478f0a45564cce36c) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_248.asset using Guid(30124b57dd80a31478f0a45564cce36c) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '25a9d2c6abb827606cd9f0476f1b2c51') in 0.0685618 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000149 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_279.asset
+  artifactKey: Guid(76dfea8c0eb3fbe4582e84aee547f281) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_279.asset using Guid(76dfea8c0eb3fbe4582e84aee547f281) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'b7b132a782a8eca3b525d2ab7a800ca2') in 0.0670611 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001161 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_1.asset
+  artifactKey: Guid(5b39ad81d94169f4dbb800500b313193) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_1.asset using Guid(5b39ad81d94169f4dbb800500b313193) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'f8b23f0bce4e3c669909f3046600c985') in 0.0766511 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000076 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_286.asset
+  artifactKey: Guid(9e0089cdc056318418d32f7a6f0d093d) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_286.asset using Guid(9e0089cdc056318418d32f7a6f0d093d) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '31e5555efa69be886b39430453e3eae1') in 0.0803525 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000115 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_227.asset
+  artifactKey: Guid(cb657d54f430492408627d8b7e00a6ac) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_227.asset using Guid(cb657d54f430492408627d8b7e00a6ac) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '4463e5284eed82b049bcce0300b22275') in 0.0599807 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000104 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_59.asset
+  artifactKey: Guid(95bd31f4b48ea68439d45488a163cf6f) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_59.asset using Guid(95bd31f4b48ea68439d45488a163cf6f) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '1dad7cf73c37ab0a15f746b638eebcdc') in 0.0693759 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000073 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_101.asset
+  artifactKey: Guid(1b3083e71b91c2d4ebdf46f89ffb87b9) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_101.asset using Guid(1b3083e71b91c2d4ebdf46f89ffb87b9) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'cb8a8bbeb8bbbbf7467884aee673910c') in 0.0724508 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000108 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_167.asset
+  artifactKey: Guid(e48b71b23f75400459cde902f2f8f8bc) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_167.asset using Guid(e48b71b23f75400459cde902f2f8f8bc) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'd3e6192a682dd84cb1cc244acf20103f') in 0.0677384 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000098 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_88.asset
+  artifactKey: Guid(5307ac97fb0aaf24db216a6a1d8ac891) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_88.asset using Guid(5307ac97fb0aaf24db216a6a1d8ac891) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '922dd48dd7e0c04376d6c418bcab032b') in 0.065741 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000121 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_106.asset
+  artifactKey: Guid(0829f6c73de66fc458d8f8243fd38f1a) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_106.asset using Guid(0829f6c73de66fc458d8f8243fd38f1a) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'e60989c531e4635220fe47aac420c2af') in 0.0657886 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001123 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_9.asset
+  artifactKey: Guid(f5d0290b985f5c3499f53a324064abf8) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_9.asset using Guid(f5d0290b985f5c3499f53a324064abf8) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '1f3e51be6be3fbc31070d1a8fff1aca7') in 0.0765089 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000095 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_135.asset
+  artifactKey: Guid(81ee19d220db4e147ae1871f6c64c99f) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_135.asset using Guid(81ee19d220db4e147ae1871f6c64c99f) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '4c1f02060441e1e8c3afb90cd6f75f04') in 0.0718857 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000088 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_37.asset
+  artifactKey: Guid(661b59cbe8b3626499eefa77da09565c) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_37.asset using Guid(661b59cbe8b3626499eefa77da09565c) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '5c9313011c0b5e3b26f7a44378db44b7') in 0.0637597 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000113 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_242.asset
+  artifactKey: Guid(20125f1b79aa5994eadfc94e457c9d08) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_242.asset using Guid(20125f1b79aa5994eadfc94e457c9d08) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '8ff026a7daf7e9a77084839bea3aef60') in 0.0560694 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000191 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_131.asset
+  artifactKey: Guid(ff687fe7c17241d4f82ab3c476f16660) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_131.asset using Guid(ff687fe7c17241d4f82ab3c476f16660) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '98d56cd8894054cfb194e87345b60be5') in 0.0752512 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000058 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_175.asset
+  artifactKey: Guid(081b0b81433b90247bb74dc4a34b46ed) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_175.asset using Guid(081b0b81433b90247bb74dc4a34b46ed) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'f561984939571e41b338ef6d4c4ff7d7') in 0.0820155 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000046 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_224.asset
+  artifactKey: Guid(af8a9d0f1f4526a4095a1a5794fce664) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_224.asset using Guid(af8a9d0f1f4526a4095a1a5794fce664) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '2fe07b9edaf592ebefc79f22e26e5764') in 0.0673576 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000096 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_314.asset
+  artifactKey: Guid(0d3908c2d2b2745449b670292a57f1ab) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_314.asset using Guid(0d3908c2d2b2745449b670292a57f1ab) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'fc3d51f39a7bdf123b5a848b0fedbb59') in 0.0656677 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000074 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_149.asset
+  artifactKey: Guid(dc4740d5e9061cb478b80f45de9ba85d) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_149.asset using Guid(dc4740d5e9061cb478b80f45de9ba85d) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '759a50f7b97ed11984133200f83ff2aa') in 0.0658883 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000088 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_41.asset
+  artifactKey: Guid(50b12fb0eeb299d418ecdcbcdc86e78b) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_41.asset using Guid(50b12fb0eeb299d418ecdcbcdc86e78b) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'dbdd76343d44bce1607c7977e88984d9') in 0.0687862 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000071 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_357.asset
+  artifactKey: Guid(1c98ecb3f3569764f9c7f9b5bb151bad) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_357.asset using Guid(1c98ecb3f3569764f9c7f9b5bb151bad) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '3c77f24a00545f0b8dbe43548091ac83') in 0.0677345 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000100 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_146.asset
+  artifactKey: Guid(a20b8ce271e033c42ba43031066e7906) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_146.asset using Guid(a20b8ce271e033c42ba43031066e7906) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'c74892a03044fb61cd3476f349c281cd') in 0.0677099 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000080 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_62.asset
+  artifactKey: Guid(ab2fa48ff1712b1498d0898bca22a598) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_62.asset using Guid(ab2fa48ff1712b1498d0898bca22a598) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'b54283e193dbf17f7cd41d01790b25d7') in 0.0765502 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000091 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_285.asset
+  artifactKey: Guid(ebbd77d8971e9d84dba4511ef37b308c) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_285.asset using Guid(ebbd77d8971e9d84dba4511ef37b308c) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '6e9568682dd39d72f4ee484f2ac853a0') in 0.0775915 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000056 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_263.asset
+  artifactKey: Guid(772385cd8986eb043881486f40b95a07) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_263.asset using Guid(772385cd8986eb043881486f40b95a07) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'e8e3ecbe6e71785ca99d575d7e5ccf41') in 0.0727233 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000084 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_81.asset
+  artifactKey: Guid(d372baa2ea310414998a4fd017e4a22e) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_81.asset using Guid(d372baa2ea310414998a4fd017e4a22e) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '0cf6596e50aa997a83e2c586e0157db4') in 0.0641052 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000062 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_129.asset
+  artifactKey: Guid(139aeca6ca2e2224684dd8300e51e04f) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_129.asset using Guid(139aeca6ca2e2224684dd8300e51e04f) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '63330448aca4ed8c9fac999cff6bbff2') in 0.0628494 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000132 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_200.asset
+  artifactKey: Guid(d3ee2597bfd41c94ab09b3cbe2eded94) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_200.asset using Guid(d3ee2597bfd41c94ab09b3cbe2eded94) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'd9998b4528a75570006305875d5ab1dc') in 0.0654723 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000064 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_67.asset
+  artifactKey: Guid(275b60dd0d311e540ab2de9065c507ad) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_67.asset using Guid(275b60dd0d311e540ab2de9065c507ad) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '14b8c7af3187bb4b5518d11e36d194c4') in 0.0696374 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000077 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_372.asset
+  artifactKey: Guid(7051341640ffa8c40871c2de1087c046) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_372.asset using Guid(7051341640ffa8c40871c2de1087c046) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '1eeb17860598e233e1c4fa7297f48b48') in 0.0692838 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000077 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_283.asset
+  artifactKey: Guid(c4c42f8e98023274899a8a01272ab360) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_283.asset using Guid(c4c42f8e98023274899a8a01272ab360) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'c3d2a265703939f2ac156aa92f511a31') in 0.0712975 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000070 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_177.asset
+  artifactKey: Guid(79c831ea146e0d542a8e20f8180250b0) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_177.asset using Guid(79c831ea146e0d542a8e20f8180250b0) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '54f19ca7c246c97a0dbfdbc3c25f93cf') in 0.0686487 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000097 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_296.asset
+  artifactKey: Guid(9f45175c260c83140be9eba277dc31e5) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_296.asset using Guid(9f45175c260c83140be9eba277dc31e5) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '831d447893239803964068662d1dbfc6') in 0.0769268 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001398 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_288.asset
+  artifactKey: Guid(8470c57420f7316498e462b503416293) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_288.asset using Guid(8470c57420f7316498e462b503416293) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '3f0c11672e3d894bc4044eda3f1367fe') in 0.0755461 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000078 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_375.asset
+  artifactKey: Guid(24e9cd22b790db748ac5a99efdcc59c5) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_375.asset using Guid(24e9cd22b790db748ac5a99efdcc59c5) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'c8bfa0655a3adcc86a148de42c283f81') in 0.0622803 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000209 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_17.asset
+  artifactKey: Guid(cdddf1823005fa142953e6861dad850c) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_17.asset using Guid(cdddf1823005fa142953e6861dad850c) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'e2cdcc4e4c8867d866a9694ba8a36949') in 0.062334 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000193 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_61.asset
+  artifactKey: Guid(ee342493e3a1fed459551091eebc065c) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_61.asset using Guid(ee342493e3a1fed459551091eebc065c) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'e70607d6e40e78bbc963b0206e12af37') in 0.069125 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000060 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_113.asset
+  artifactKey: Guid(20df4a7ef34e86e49951e3979bd2b7b7) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_113.asset using Guid(20df4a7ef34e86e49951e3979bd2b7b7) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'df2408b084b31d0599ee3a25929c18bb') in 0.0699419 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000075 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_260.asset
+  artifactKey: Guid(4b1387e4861228d47b9ddd04419011d4) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_260.asset using Guid(4b1387e4861228d47b9ddd04419011d4) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '7e4985a7dd49bd93c866cb7a33198158') in 0.0573122 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000096 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_349.asset
+  artifactKey: Guid(48af89e3f5e654347b4a7b3999120c09) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_349.asset using Guid(48af89e3f5e654347b4a7b3999120c09) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '14ab300f4a38d5cf3792620cb084c8d6') in 0.0568099 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000077 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_353.asset
+  artifactKey: Guid(e4b64177b6e17934391c804cd7bfd098) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_353.asset using Guid(e4b64177b6e17934391c804cd7bfd098) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'b8846f021f2cb4eb3a7e22c9f9326aa4') in 0.0675265 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000048 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_290.asset
+  artifactKey: Guid(2042f5329630d6447b7f4ba79ebcda1c) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_290.asset using Guid(2042f5329630d6447b7f4ba79ebcda1c) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '8970707e86f2cd49b7c1aecfcf3e145c') in 0.0722714 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000083 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_122.asset
+  artifactKey: Guid(fcc21f2252ab5a24e8f5f7a4d01416a3) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_122.asset using Guid(fcc21f2252ab5a24e8f5f7a4d01416a3) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '9846381c8a0cac9fb76c95acea760de2') in 0.0710081 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000079 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_191.asset
+  artifactKey: Guid(c686098bc90d02e46a495bb6863dc8b6) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_191.asset using Guid(c686098bc90d02e46a495bb6863dc8b6) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '454ac69bb9f62951d1e3508623b52e2e') in 0.065877 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000085 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_344.asset
+  artifactKey: Guid(2343a0b776b7c284e818a6bbf3f5d1dd) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_344.asset using Guid(2343a0b776b7c284e818a6bbf3f5d1dd) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '3e11f49791abc78513fa60f2d5c3ff88') in 0.0715311 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_104.asset
+  artifactKey: Guid(0fbe0ca89bab15746abc101d8bc94caa) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_104.asset using Guid(0fbe0ca89bab15746abc101d8bc94caa) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '83c192be6e0b54301b17165f72fc3cfb') in 0.0598293 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000169 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_160.asset
+  artifactKey: Guid(aebbc491d47895545ad9f2b2ed2e3f02) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_160.asset using Guid(aebbc491d47895545ad9f2b2ed2e3f02) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '100a47e281db4c6c2146fc762b11dcdc') in 0.0733995 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000087 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_222.asset
+  artifactKey: Guid(fc16dc20f28aaa1458c1309fc5a68061) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_222.asset using Guid(fc16dc20f28aaa1458c1309fc5a68061) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '67e64f77455408a6d788adf3218139ed') in 0.0630594 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000073 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_309.asset
+  artifactKey: Guid(571cd5fc40b4c8b498267af54a51351f) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_309.asset using Guid(571cd5fc40b4c8b498267af54a51351f) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'eaac7f464687f3cfc1076fa6ff3025c0') in 0.0666601 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000083 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_252.asset
+  artifactKey: Guid(27263aba456e5204b9b3f7a57899e5b7) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_252.asset using Guid(27263aba456e5204b9b3f7a57899e5b7) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'f3974142d20759e434a180d6525cfadd') in 0.0680726 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000064 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_355.asset
+  artifactKey: Guid(c74a96e0a53276a4e9f53f9c34c61b23) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_355.asset using Guid(c74a96e0a53276a4e9f53f9c34c61b23) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'c629c8fbb7c46cf629ce641e58779e23') in 0.060919 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000293 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_333.asset
+  artifactKey: Guid(1225353c19782704586789c3930c9a02) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_333.asset using Guid(1225353c19782704586789c3930c9a02) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'e9915d4b6414ef0090c926474738d573') in 0.064458 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000085 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_118.asset
+  artifactKey: Guid(8b8c104afe8455845b7399ea67ff993b) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_118.asset using Guid(8b8c104afe8455845b7399ea67ff993b) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '1304cd89ed9fb5b07c1d16e382178e84') in 0.0632281 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000082 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_291.asset
+  artifactKey: Guid(1663b202d94a2bd4b87eab5d5b6b5eeb) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_291.asset using Guid(1663b202d94a2bd4b87eab5d5b6b5eeb) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '6b41f139406c4ee4312b4a41e2f5c019') in 0.078081 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000129 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_332.asset
+  artifactKey: Guid(41cfb8a247dc3ae42a5d9b8cd4cf2ba7) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_332.asset using Guid(41cfb8a247dc3ae42a5d9b8cd4cf2ba7) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '58971cc2d50830e6f7755219b9d3325e') in 0.0702224 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000106 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_295.asset
+  artifactKey: Guid(fb5ba9f10d303434aa56571203ab852e) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_295.asset using Guid(fb5ba9f10d303434aa56571203ab852e) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'b276e36fb7976c97c562f0063ee928c9') in 0.0734143 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000113 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_197.asset
+  artifactKey: Guid(6548efbd99ba11f49ac39080bdf20f7f) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_197.asset using Guid(6548efbd99ba11f49ac39080bdf20f7f) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '3829adab0387e48c0dd0bb07e7895625') in 0.063656 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001339 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_367.asset
+  artifactKey: Guid(def5eb5584155e440be6cafb210480fa) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_367.asset using Guid(def5eb5584155e440be6cafb210480fa) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '69214151e464e14571b13cbfc8d0ab2d') in 0.0677108 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000165 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_65.asset
+  artifactKey: Guid(78bbb92f87c97544cb54f0ad16c8743d) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_65.asset using Guid(78bbb92f87c97544cb54f0ad16c8743d) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '58ef4059a311ff1f8ab957b8c32f6fbc') in 0.0662235 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000200 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_215.asset
+  artifactKey: Guid(e20e38239fdabaa4ab65672e66785ac7) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_215.asset using Guid(e20e38239fdabaa4ab65672e66785ac7) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'e21378d84b1e3e13cf48fc55286545ed') in 0.0681035 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000126 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_102.asset
+  artifactKey: Guid(d83722b1c36f231458a1b4bc5bf775a0) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_102.asset using Guid(d83722b1c36f231458a1b4bc5bf775a0) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'e0621be672db8c2951a2059157ea48fd') in 0.0736135 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_216.asset
+  artifactKey: Guid(fe868028858a35c47bbc547a85084709) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_216.asset using Guid(fe868028858a35c47bbc547a85084709) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '0d77643720e6c84bd550d6bf29345d88') in 0.0720264 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000127 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_308.asset
+  artifactKey: Guid(600d04250a2518e41943262e8986326c) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_308.asset using Guid(600d04250a2518e41943262e8986326c) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'c8f19c4cef8d8baeda1828ddf47a8d91') in 0.074486 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000054 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_45.asset
+  artifactKey: Guid(1f0e0ee458cd51143abb9e9b272abe85) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_45.asset using Guid(1f0e0ee458cd51143abb9e9b272abe85) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '6cb79973d80f1dc8d07bf1fff6eef0ee') in 0.0657217 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000169 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_297.asset
+  artifactKey: Guid(852a88090161c0c44aae196e3a5db5ff) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_297.asset using Guid(852a88090161c0c44aae196e3a5db5ff) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '8ae17610760af712c3223740f30b5087') in 0.0676688 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000060 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_231.asset
+  artifactKey: Guid(d62a4d4f8ab94594fb5073fc575a8237) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_231.asset using Guid(d62a4d4f8ab94594fb5073fc575a8237) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '319a68a3f6862163dbfbdf75fafcea08') in 0.0711306 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000123 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_12.asset
+  artifactKey: Guid(c0cdc31d5e98b7843a5fb11d6808e8a7) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_12.asset using Guid(c0cdc31d5e98b7843a5fb11d6808e8a7) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '9a72b540fe467f556bf64b37a29b092a') in 0.0660919 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000400 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_127.asset
+  artifactKey: Guid(30bf42de5740144408024269ce133545) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_127.asset using Guid(30bf42de5740144408024269ce133545) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '9f597e567b5c17af9715e430b123a260') in 0.0684508 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000285 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_93.asset
+  artifactKey: Guid(1824d363164ff474690199935f44ef08) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_93.asset using Guid(1824d363164ff474690199935f44ef08) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '2bf3c09c32480c1cc61900acc01b24fa') in 0.0834049 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002183 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_79.asset
+  artifactKey: Guid(3fb7b2cfdaeb4e4419f4100ee18dbf4d) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_79.asset using Guid(3fb7b2cfdaeb4e4419f4100ee18dbf4d) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'a91cf379fabd4262f61dd5b24080caf8') in 0.0876085 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000403 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_92.asset
+  artifactKey: Guid(7347fb7cc515110438e98caec06e5afe) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_92.asset using Guid(7347fb7cc515110438e98caec06e5afe) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'fac3b3b2a9dec02868d94b1808db5dbb') in 0.1055098 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000205 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_337.asset
+  artifactKey: Guid(9bde2880861756145a3970868fdcac6c) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_337.asset using Guid(9bde2880861756145a3970868fdcac6c) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '208d72d704b364d1a12deb8a70a92e87') in 0.0849259 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000143 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_206.asset
+  artifactKey: Guid(64c713e10f87f66478ef5b0a127f7914) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_206.asset using Guid(64c713e10f87f66478ef5b0a127f7914) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '38879f25119d3cb34b86d28a9e604662') in 0.0811355 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000283 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_178.asset
+  artifactKey: Guid(4da1944706105d24ab2f3c3e02ff85a0) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_178.asset using Guid(4da1944706105d24ab2f3c3e02ff85a0) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'cd08e657f56ca6c6755f63d6b1127dae') in 0.0907702 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000114 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_318.asset
+  artifactKey: Guid(ec5b3761cf3f5c746af4de6fa224f721) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_318.asset using Guid(ec5b3761cf3f5c746af4de6fa224f721) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '0c1db1b342d4526c204b06516de9c0d6') in 0.0990058 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001211 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_121.asset
+  artifactKey: Guid(4e7e93b2bff666946b04346cb75b4624) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_121.asset using Guid(4e7e93b2bff666946b04346cb75b4624) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'eb43661ab5e93b735a3c7afbb4e1fc75') in 0.1156454 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000060 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_130.asset
+  artifactKey: Guid(1a1c5ed44055db644b4e397861c5eb2e) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_130.asset using Guid(1a1c5ed44055db644b4e397861c5eb2e) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '7b22d5a39d49738cf49ca36081de75aa') in 0.0797251 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_319.asset
+  artifactKey: Guid(450bfc77f059ffb4589e2cce5772e68d) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_319.asset using Guid(450bfc77f059ffb4589e2cce5772e68d) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '0c7c9e2944061c1df0d5b8f903ac3216') in 0.0891979 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_76.asset
+  artifactKey: Guid(9a47285a80ae7474cab7a91c5d625222) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_76.asset using Guid(9a47285a80ae7474cab7a91c5d625222) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '464370855b01d91a789fc3a4b154b633') in 0.0793635 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000203 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_334.asset
+  artifactKey: Guid(366cac52c4e16e54a99319fbf401397b) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_334.asset using Guid(366cac52c4e16e54a99319fbf401397b) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '0ecbe6822cf19be97da464cfce9ebaec') in 0.0825521 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000103 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_147.asset
+  artifactKey: Guid(42bd68e867cb49f46b877bbbd14ecb13) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_147.asset using Guid(42bd68e867cb49f46b877bbbd14ecb13) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '70cc4fd0d5e43a397be88c4630f52710') in 0.0727811 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000136 seconds.
+  path: Assets/Art/Titlesets/Nature/TilesetNature_90.asset
+  artifactKey: Guid(70144870e5d7b7b498806f4027875977) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Titlesets/Nature/TilesetNature_90.asset using Guid(70144870e5d7b7b498806f4027875977) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'cf95370c497b47a943163f8235f2ea39') in 0.0813042 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
